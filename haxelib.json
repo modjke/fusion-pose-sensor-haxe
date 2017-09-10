@@ -1,0 +1,17 @@
+{
+	"name": "fusion-pose-sensor",
+	"license": "Apache 2.0",
+	"tags": [
+		"js",
+		"webvr"	
+	],
+	"description": "WebVR pose sensor by Google ported to Haxe (DeviceMotion API implementation)",
+	"contributors": [
+		"modjke"
+	],
+	"classPath": "src",
+	"releasenote": "Initial",
+	"version": "0.1.0",
+	"url": "https://github.com/modjke/fusion-pose-sensor-haxe",
+	"dependencies": {}
+}
